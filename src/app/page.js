@@ -1,7 +1,9 @@
 export default function Home() {
   return (
-    <div>
-     
-    </div>
+    <>
+     <h2>Welcome!</h2>
+     hello, WEB!<br/>
+     <img src="/hello.png" ></img>
+    </>
   );
 }
